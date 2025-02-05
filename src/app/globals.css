@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* .confetti-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.confetti {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background-color: #f39c12;
+  opacity: 0;
+  animation: confetti-fall 5s linear infinite;
+}
+
+.confetti-0 { background-color: #f39c12; }
+.confetti-1 { background-color: #e74c3c; }
+.confetti-2 { background-color: #3498db; }
+.confetti-3 { background-color: #2ecc71; }
+.confetti-4 { background-color: #9b59b6; }
+.confetti-5 { background-color: #f1c40f; }
+.confetti-6 { background-color: #e67e22; }
+.confetti-7 { background-color: #1abc9c; }
+.confetti-8 { background-color: #34495e; }
+.confetti-9 { background-color: #d35400; }
+
+@keyframes confetti-fall {
+  0% {
+    transform: translateY(-10vh) rotate(0deg);
+    opacity: 1;
+  } */
+  /* 100% {
+    transform: translateY(110vh) rotate(720deg);
+    opacity: 0;
+  }
+} */
